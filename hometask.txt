@@ -1,1 +1,15 @@
 В master присуствует ранее созданный файл fix readme, созданный в 2016 года и 4 моих мерджа, а в ветке demo 2 мерджа 2016 года.
+
+Commits:
+init 7d5cd9d87337dcd48708dce597a3c0566cb349ef
+heat added 949c4a16dbb5cd482965537bfb1558e078afd252
+boots 152f859ca641e70864aa907bc1f5b1ba3b27acd9
+README added 079fa1b2baa18b6a7a03ff3a7d00e9fca4d43a0c
+dots 1db7b7a68098af0fd01a77aca5f808a817d5c2e3
+fix readme df455a79680d70a43d65351f338e25d0ef26c169
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons 5609c3a65252d81f247aae294f6cbcea3dae6be1
+Merge remote-tracking branch 'origin/buttons' into boots_buttons aea01b0454cc9cafee4143d5f29aeb37f9142dfa
+Merge remote-tracking branch 'origin/hat' 28fe183f2c3532f564db248c529c1b2f327db260
+Merge branch 'boots_buttons' 776f86235e625c5060841c7929b821a5ce60c7d5
+Ivan`s first commit e6491f09916245752b47e2321bec254c9700a978
